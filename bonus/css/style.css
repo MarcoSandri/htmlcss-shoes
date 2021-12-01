@@ -39,6 +39,10 @@ nav a:hover {
 
 }
 
+.center img {
+    max-width: 100%;
+}
+
 .section {
     height: 100vh;
     width: 100vw;
